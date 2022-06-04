@@ -4,22 +4,19 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-
+    SELECT, INSERT, UPDATE, DELETE
 2. Menciona 3 tipos de datos que existen: (valor .85)
-
-
+    CHAR, INT, FLOAT
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-
+    A diferencia de DELETE, TRUNCATE elimina todas las filas de la tabla sin borrar la tabla.
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-
+    Nos permite establecer este atributo a los campos que requerimos tengan datos que no se puedan repetir.
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-
-
+    La longitud, char es una cadena de caracteres de longitud fija y varchar una cadena de caracteres de longitud variable con una longitud máxima n especificada por el usuario, se ajusta al numero de caracteres.
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-
-
+    Lenguaje de consulta estructurado. Lenguaje estándar e interactivo de acceso a bases de datos relacionales, permite especificar diversos tipos de operaciones, gracias a la utilización del álgebra y de cálculos relacionales.
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
-
+    Un editor visual de base de datos MySQL que cuenta con el respaldo oficial de MySQL.
 ## Práctica 5.
 ### Gestores de base de datos
 
