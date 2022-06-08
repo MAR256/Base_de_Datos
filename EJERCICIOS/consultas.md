@@ -10,7 +10,9 @@ En la BD utilizada en clase realiza las siguientes consultas:
 * ![image](https://user-images.githubusercontent.com/104279939/172661001-0033713f-4afe-447c-85ce-e46ec40170b8.png)
 
 * Muestra los empleados que estan en x sucursal
-* ![image](https://user-images.githubusercontent.com/104279939/172670325-a491c544-c1c5-4907-aee8-0e31ef813fb5.png)
+* ![image](https://user-images.githubusercontent.com/104279939/172677734-af42e442-70d4-41c6-a877-bfe5f0cea521.png)
+
+* 
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
