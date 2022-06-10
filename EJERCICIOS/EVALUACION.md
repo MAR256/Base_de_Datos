@@ -46,6 +46,8 @@ Tenemos que diseñar una base de datos sobre proveedores y disponemos de la sigu
 información:
 
 Realiza el modelo entidad relación. (valor 6)
+![image](https://user-images.githubusercontent.com/104279939/172973010-ee419bb2-2070-4f12-b58c-de73f3843571.png)
+
 
 Tenemos esta información sobre una cadena editorial:
 
@@ -69,14 +71,6 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
-
-
-
-![image](https://user-images.githubusercontent.com/104279939/172994154-d325499c-82b1-4e90-9930-eb7e714f077d.png)
-
-
-![image](https://user-images.githubusercontent.com/104279939/172994094-69d6eb29-b51f-4fc4-adcc-4d480f006cd5.png)
-
 
 ![image](https://user-images.githubusercontent.com/104279939/170846581-7e94c172-14f7-46c8-93f9-d00a07e9106c.png)
 
