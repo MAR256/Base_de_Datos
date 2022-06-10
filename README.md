@@ -10,7 +10,7 @@ TEMARIO TALLER DE BASE DE DATOS
 
 I.INTRODUCCIÓN A BASE DE DATOS
 
-  A. ¿Qué es un sistema gestor de bases de datos?
+  A. ¿Qué es un sistema gestor de bases de datos?       
   
   B. Aplicaciones de los sistemas de bases de datos
   
