@@ -2,9 +2,11 @@
 ### Indicaciones de lo que se debe realizar
 
 ● Diseña el modelo entidad-relación del siguiente problema.
+![image](https://user-images.githubusercontent.com/104279806/173203176-4c7dd335-6efd-41ec-a599-aeae91bea8a5.png)
 
 ● Crea el script para la base de datos.
 Proveedores
+https://www.db-fiddle.com/f/vchm3fFMd6WxuFHjJETNbx/1
 
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
 la siguiente información:
